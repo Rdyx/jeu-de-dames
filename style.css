@@ -1,0 +1,21 @@
+body{
+	margin: auto;
+	padding: 0;
+}
+
+.bg-inverse{
+	background-color: black;
+	color: white;
+}
+.bg-white{
+	border: 1px solid black;
+}
+[class*=col]{
+	height: 100px;
+
+}
+
+.topMarg{
+	margin-top: 5%;
+
+}
